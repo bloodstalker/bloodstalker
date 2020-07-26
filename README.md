@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=bloodstalker)](https://github.com/anuraghazra/github-readme-stats) -->
+<details>
+<summary>Github Stats</summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bloodstalker/">
+</p>
+</details>
 <details>
 <summary>Language Stats:</summary></br>
 <p align="center">
